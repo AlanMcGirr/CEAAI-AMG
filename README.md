@@ -15,10 +15,14 @@ To build an ecosystem where students **learn by doing** — applying AI to solve
   Using platforms like Endstar, Python, Replit, and Microsoft AI services, learners gain hands-on experience with technologies that matter in today’s AI landscape.
 
 - **Modern Curriculum**:  
-  Designed in alignment with the UAE AI Strategy 2031 and Massachusetts DLCS framework, this curriculum blends ethical AI practices with computational thinking and innovation.
+  Designed in alignment with the UAE AI Strategy 2031 and the Massachusetts DLCS framework, this curriculum blends ethical AI practices with computational thinking and innovation.
 
 - **Teacher Empowerment**:  
   Comprehensive support for educators through plug-and-play modules, CPD workshops, and cross-disciplinary lesson design.
+
+## Beyond STEM — Powered by AI
+
+STEM is at the heart of everything we do. But CEAAI goes further — **we use artificial intelligence as a problem-solving engine** within STEM domains. Whether it's optimizing water usage in a smart irrigation system or detecting patterns in climate data, students apply AI not just as a tool, but as a mindset to tackle complex scientific, engineering, and mathematical challenges.
 
 ## Real Impact
 
